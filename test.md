@@ -1,22 +1,30 @@
 ---
 marp: true
-theme: uncover
-header: "**Test**  __Marp samples__"
-footer: "by den2k6"
+theme: gaia
+header: "Header"
+footer: "Footer"
 paginate: true
+backgroundColor: #f4f4fc
 ---
 <!--
-_backgroundColor: #eec
-color: #33a
+color: #228
 -->
 
 # Title
 
 ---
+# Index
 
+- slide 1
+- slide 2
+
+---
 # Slide 1
 
-test
+test test test test test test 
+test test test test test test test test test test test 
+test test test test test test test test test test test test test 
+
 
 ---
 # Slide 2
@@ -27,4 +35,6 @@ test
 
 #### this is great.
 
----
+##### this is great.
+
+###### this is great.

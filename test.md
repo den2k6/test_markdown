@@ -15,8 +15,9 @@ color: #228
 ---
 # Index
 
-- slide 1
-- slide 2
+- Slide 1
+- Slide 2
+- Slide 3
 
 ---
 # Slide 1
@@ -38,3 +39,16 @@ test test test test test test test test test test test test test
 ##### this is great.
 
 ###### this is great.
+
+---
+# Slide 3
+
+| abc | def | ghi |
+
+[Google](https://google.com/)
+
+
+
+~~test~~
+
+
